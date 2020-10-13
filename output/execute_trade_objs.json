@@ -1,0 +1,90 @@
+[
+    {
+        "session_id": 10,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "42.90000000",
+        "timestamp": "1597859362.079",
+        "trade_type": 0
+    },
+    {
+        "session_id": 11,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "42.90000000",
+        "timestamp": "1597859362.079",
+        "trade_type": 0
+    },
+    {
+        "session_id": 12,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "54.44000000",
+        "timestamp": "1598053747.812",
+        "trade_type": 0
+    },
+    {
+        "session_id": 13,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "159.00000000",
+        "timestamp": "1598053876.923",
+        "trade_type": 0
+    },
+    {
+        "session_id": 14,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "159.00000000",
+        "timestamp": "1598053936.194",
+        "trade_type": 0
+    },
+    {
+        "session_id": 15,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "54.44000000",
+        "timestamp": "1598053936.194",
+        "trade_type": 0
+    },
+    {
+        "session_id": 16,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "186.00000000",
+        "timestamp": "1598053997.809",
+        "trade_type": 0
+    },
+    {
+        "session_id": 17,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "159.00000000",
+        "timestamp": "1598310523.649",
+        "trade_type": 0
+    },
+    {
+        "session_id": 18,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "54.44000000",
+        "timestamp": "1598310539.834",
+        "trade_type": 0
+    },
+    {
+        "session_id": 19,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "186.00000000",
+        "timestamp": "1598310573.641",
+        "trade_type": 0
+    },
+    {
+        "session_id": 20,
+        "sst_id": "MBR",
+        "sst_class": 2,
+        "amount": "42.90000000",
+        "timestamp": "1598310609.067",
+        "trade_type": 0
+    }
+]
