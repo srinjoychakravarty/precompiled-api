@@ -175,7 +175,7 @@ exports.deploy_contract = async function(api, wasmPath, deployer, codehash, addr
             } catch (error) {
                 console.log(error);
             }
-            // process.exit();
+             process.exit();
         });
     });
 }
