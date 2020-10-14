@@ -9,17 +9,17 @@ const wasmPaths = ["./contracts/roleContract.wasm", "./contracts/accContract.was
 
 async function init() {
     // Deploy all contracts and save into contract_id.json
-    await delay(1000);   
+    //await delay(1000);   
     const { api, abiArr, bob } = await base.connect(abiPaths);
-    await delay(2000);   
+    //await delay(2000);   
     let c1 = await base.deploy_contract(api, wasmPaths[0], bob, 'codehash_roleC', 'contractAddr_roleC', "0x5EBD88D6");
-    await delay(20100); 
+    //await delay(20100); 
     let c2 = await base.deploy_contract(api, wasmPaths[1], bob, 'codehash_accountC', 'contractAddr_accountC', "0x5EBD88D6");
-    await delay(20200); 
+    //await delay(20200); 
     let c3 = await base.deploy_contract(api, wasmPaths[2], bob, 'codehash_regtrC', 'contractAddr_regtrC', "0x5EBD88D6");
-    await delay(20300); 
+    //await delay(20300); 
     let c4 = await base.deploy_contract(api, wasmPaths[3], bob, 'codehash_coreC', 'contractAddr_coreC', "0x5EBD88D6");
-    await delay(3000);   
+    //await delay(3000);   
     return { c1, c2, c3, c4 };
 }
 
