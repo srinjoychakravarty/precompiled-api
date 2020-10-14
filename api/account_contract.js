@@ -293,12 +293,13 @@ async function test_change_role() {
     let roleObjs = await call_grantAddressRole(roleObjs2);
 }
 
-test_multiple_set();
+//test_multiple_set();
 
 // test_change_role();
 
 // default_transfer(JANE);
-// get_account_balance(EVE);
+get_account_balance(ALICE);
+get_account_balance(BOB);
 
 // call_removeAddressRole(roleObjs2);
 
